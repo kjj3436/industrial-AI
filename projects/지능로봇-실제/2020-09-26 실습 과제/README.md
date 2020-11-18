@@ -9,10 +9,10 @@ Robot Operation System(ROS)
 - Node간 message 형식만 맞으면 다양한 언어사용 가능
 - 현재 Melodic Release 및 ROS 2개발이 진행되고 있지만, 실습에서는 ROS kinetic사용
 
-## Educational Course
+## ROS란?
 
 <p align="center">
   
-<img src="./images/ROS.JPG"  width="640" height="300">
+<img src="./images/ROS.PNG"  width="640" height="300">
 
 </p>
