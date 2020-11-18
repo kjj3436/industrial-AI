@@ -7,7 +7,7 @@
 3.특허청구범위 기재방법
 4.특허청구범위 작성 사례
 
-<img src="./kipris.jpg"  width="930" height="500">
+<img src="./kipris.jpg"  width="600" height="500">
 
 
 </p>
