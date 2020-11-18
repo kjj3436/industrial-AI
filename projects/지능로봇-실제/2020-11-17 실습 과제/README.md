@@ -10,7 +10,6 @@ C++은 1979년, Bjarne Stroustrup의 “C with Classes”의 작업으로부터 
 C++은 C의 대부분의 특징을 포함하고 있어서 시스템 프로그래밍에 적합하며 클래스, 연산자 중복, 가상 함수 등과 같은 특징을 갖추고 있어 객체 지향 프로그래밍에 적합하다. 
   
 <img src="./vs.jpg"  width="930" height="500">
-
 <img src="./code.jpg"  width="800" height="500">
 
 </p>
