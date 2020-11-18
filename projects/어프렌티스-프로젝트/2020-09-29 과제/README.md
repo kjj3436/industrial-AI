@@ -9,6 +9,6 @@
 - SLAM 기술(Simultaneous Localization and Mapping)
 - 인공 지능
 
-<img src="./특허.jpg"  width="600" height="400">
+<img src="./특허.jpg"  width="500" height="300">
 
 </p>
