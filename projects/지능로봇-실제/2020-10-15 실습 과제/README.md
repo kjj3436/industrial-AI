@@ -1,13 +1,12 @@
-# **Intelligent Robots Practice** 
+# **Python ** 
 
 ## Introduction
 
-Robot Operation System(ROS)
-- Robot software를 개발하기 위한 framework
-- ROS wiki에서는 Meta-operation system이라고 명명.
-- Node 단위의 분산 프레임워크로 구성되어 코드의 재사용 및 협업 용이(모듈화)
-- Node간 message 형식만 맞으면 다양한 언어사용 가능
-- 현재 Melodic Release 및 ROS 2개발이 진행되고 있지만, 실습에서는 ROS kinetic사용
+-파이썬은 배우기 쉽고, 강력한 프로그래밍 언어입니다. 파이썬은 효율적인 고수준 데이터
+구조를 갖추고 있으며, 간단하지만 효과적인 객체 지향 프로그래밍 접근법 또한 갖추고
+있습니다. 우아한 문법과 동적 타이핑, 그리고 인터프리팅 환경을 갖춘 파이썬은 다양한
+분야, 다양한 플랫폼에서 사용될 수 있는 최적의 스크립팅,RAD(rapid application
+development - 빠른 프로그램 개발) 언어입니다.
 
 ## ROS란?
   
