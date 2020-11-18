@@ -13,6 +13,6 @@ Robot Operation System(ROS)
 
 <p align="center">
   
-<img src="./GGROS.PNG"  width="640" height="300">
+<img src="./ROS.PNG"  width="640" height="300">
 
 </p>
