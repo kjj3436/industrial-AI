@@ -10,9 +10,7 @@ Robot Operation System(ROS)
 - 현재 Melodic Release 및 ROS 2개발이 진행되고 있지만, 실습에서는 ROS kinetic사용
 
 ## ROS란?
-
-<p align="center">
   
-<img src="./ROS.png"  width="640" height="300">
+<img src="./ROS.png"  width="800" height="500">
 
 </p>
