@@ -1,10 +1,13 @@
-# **Industrial AI** 
+# **Intelligent Robots Practice** 
 
 ## Introduction
 
-2020년 8월 설립된 재직자 대상 계약학과입니다.
-
-4차 산업혁명을 주도할 창의적 문제해결 능력을 갖춘 인공지능 관련 전문가를 육성하는 것을 목표로 하고 있습니다.
+Robot Operation System(ROS)
+- Robot software를 개발하기 위한 framework
+- ROS wiki에서는 Meta-operation system이라고 명명.
+- Node 단위의 분산 프레임워크로 구성되어 코드의 재사용 및 협업 용이(모듈화)
+- Node간 message 형식만 맞으면 다양한 언어사용 가능
+- 현재 Melodic Release 및 ROS 2개발이 진행되고 있지만, 실습에서는 ROS kinetic사용
 
 ## Contacts
 
@@ -15,6 +18,6 @@
 
 <p align="center">
   
-<img src="./images/EdCoourse.JPG"  width="640" height="300">
+<img src="./images/ROS.JPG"  width="640" height="300">
 
 </p>
