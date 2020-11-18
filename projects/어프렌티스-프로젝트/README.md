@@ -1,16 +1,12 @@
-# **Intelligent Robots Practice** 
+# **어프렌티스 프로젝트** 
 
 ## Introduction
 
-Robot Operation System(ROS)
-- Robot software를 개발하기 위한 framework
-- ROS wiki에서는 Meta-operation system이라고 명명.
-- Node 단위의 분산 프레임워크로 구성되어 코드의 재사용 및 협업 용이(모듈화)
-- Node간 message 형식만 맞으면 다양한 언어사용 가능
-- 현재 Melodic Release 및 ROS 2개발이 진행되고 있지만, 실습에서는 ROS kinetic사용
+강의 개요
+- 현업의 문제를 해결하기 위한 방법론적 접근방법을 사례를 통해서 학습하여, 해결대상 문제를 식별하고, 
+  문제 해결을 위해 창의적 문제 해결 방식의 발견을 위한 창의적 접근방법을 시도하는 경험을 제공
 
-## ROS란?
+학습 목표 
+- 산업 인공지능분야에 적합한 주제를 창의력과 융합적 사고를 통하여 최대한 다양하고 많은 주제를 도출하고 이에 대한 문제 해결 방법을 모색할 수 있도록 함.
   
-<img src="./ROS.png"  width="900" height="600">
-
 </p>
