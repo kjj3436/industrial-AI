@@ -7,7 +7,7 @@
 - 특허청구범위 기재방법
 - 특허청구범위 작성 사례
 
-<img src="./kipris.jpg"  width="900" height="900">
+<img src="./kipris.jpg"  width="600" height="600">
 
 
 </p>
