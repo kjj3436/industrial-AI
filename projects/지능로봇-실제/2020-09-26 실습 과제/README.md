@@ -9,11 +9,6 @@ Robot Operation System(ROS)
 - Node간 message 형식만 맞으면 다양한 언어사용 가능
 - 현재 Melodic Release 및 ROS 2개발이 진행되고 있지만, 실습에서는 ROS kinetic사용
 
-## Contacts
-
-- 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
-- **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
-
 ## Educational Course
 
 <p align="center">
