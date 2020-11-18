@@ -18,6 +18,6 @@ development - 빠른 프로그램 개발) 언어입니다.
 - 확장성
 - 확장 가능한 라이브러리
   
-<img src="./python.jpg"  width="600" height="500">
+<img src="./python.jpg"  width="680" height="440">
 
 </p>
