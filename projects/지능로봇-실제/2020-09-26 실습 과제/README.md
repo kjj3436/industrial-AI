@@ -11,6 +11,6 @@ Robot Operation System(ROS)
 
 ## ROS란?
   
-<img src="./ROS.png"  width="800" height="500">
+<img src="./ROS.png"  width="900" height="700">
 
 </p>
