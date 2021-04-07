@@ -19,8 +19,6 @@
   프로젝트 2. 재직 현장에서 발생하는 데이터에 대해 기계학습 기법을 적용하는 시스템을 개발한다.
   프로젝트 3. 재직 현장에서 발생하는 이미지 데이터에 대한 인식 시스템을 개발한다. 
 
-
-<img src="./intelligent robots.jpg"  width="900" height="600">
-<img src="./intelligent robots2.jpg"  width="900" height="600">
+<img src="./인공지능.jpg"  width="600" height="700">
 </p>
 
