@@ -1,6 +1,6 @@
 #### **딥러닝의 응용현황 조사**
 
-<img src="./python.jpg"  width="680" height="440">
+<img src="./인공지능 기술의 개요도.jpg"  width="680" height="440">
 
 </p>
 
