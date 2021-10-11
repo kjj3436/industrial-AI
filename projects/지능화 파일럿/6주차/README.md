@@ -1,6 +1,6 @@
 # **머신비전의 딥러닝 활용 사례** 
 
-<img src="./6주차.jpg"  width="1000" height="600">
+<img src="./6주차.jpg"  width="1200" height="600">
 </p>
 
 
