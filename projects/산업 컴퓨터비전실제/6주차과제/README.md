@@ -1,5 +1,5 @@
 # **6주차 과제 보고서** 
 
-<img src="./6주차 과제.jpg"  width="900" height="500">
+<img src="./6주차 과제.jpg"  width="900" height="400">
 </p>
 
