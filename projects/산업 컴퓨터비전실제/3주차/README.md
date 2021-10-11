@@ -1,4 +1,4 @@
-# **image input/Output&GUI** 
+# **Histogram & Filtering** 
 
 <img src="./3주차 강의.jpg"  width="800" height="600">
 </p>
