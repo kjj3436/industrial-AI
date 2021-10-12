@@ -1,4 +1,4 @@
 # **지능화 파일럿 강의 계획** 
 
-<img src="./지능화 파일럿 강의 계획.jpg"  width="700" height="600">
+<img src="./지능화 파일럿 강의 계획.jpg"  width="1300" height="800">
 </p>
