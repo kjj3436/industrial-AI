@@ -15,7 +15,7 @@
 
 <p align="center">
   
-<img src="./images/EdCoourse.JPG"  width="1200" height="600">
+<img src="./images/EdCoourse.JPG"  width="1200" height="500">
 
 </p>
 </br>
