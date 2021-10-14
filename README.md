@@ -27,8 +27,8 @@
 - `2020-10` [지능로봇 실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/지능로봇-실제): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
 - `2021-1학기` [산업인공지능개론](https://github.com/kjj3436/industrial-AI/tree/master/projects/산업인공지능개론): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
 - `2021-1학기` [딥러닝실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/딥러닝실제): 
-- `2021-2학기` [산업 컴퓨터비전 실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/산업 컴퓨터비전실제): 
-- `2021-2학기` [지능화 파일럿 프로젝트](https://github.com/kjj3436/industrial-AI/tree/master/projects/지능화 파일럿): 
+- `2021-2학기` [산업 컴퓨터비전실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/산업 컴퓨터비전실제): 
+- `2021-2학기` [지능화 파일럿](https://github.com/kjj3436/industrial-AI/tree/master/projects/지능화 파일럿): 
 
 ### AI 관련 프로그래밍
 
