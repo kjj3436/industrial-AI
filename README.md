@@ -15,7 +15,7 @@
 
 ### 재학생 수행 프로젝트
 
-- `2020-2학기` [어프렌티스 프로젝트](https://github.com/kjj3436/industrial-AI/tree/master/projects/2020-2학기_어프렌티스 프로젝트): 문제해결방법론 교육 및 프로젝트 준비
+- `2020-2학기` [어프렌티스 프로젝트](https://github.com/kjj3436/industrial-AI/tree/master/projects/2020-2학기_어프렌티스%20프로젝트): 문제해결방법론 교육 및 프로젝트 준비
 - `2020-2학기` [지능로봇 실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/지능로봇-실제): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
 - `2021-1학기` [산업인공지능개론](https://github.com/kjj3436/industrial-AI/tree/master/projects/산업인공지능개론): 산업 현장 적용을 위한 인공지능 기술의 주요 개념 및 알고리즘을 학습
 - `2021-1학기` [딥러닝실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/딥러닝실제): 인공지능시스템의 기본이 되는 신경회로망 및 딥러닝에 대해서 배움
