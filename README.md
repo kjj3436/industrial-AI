@@ -17,10 +17,10 @@
 
 - `2020-2학기` [어프렌티스 프로젝트](https://github.com/kjj3436/industrial-AI/tree/master/projects/2020-2학기_어프렌티스%20프로젝트): 문제해결방법론 교육 및 프로젝트 준비
 - `2020-2학기` [지능로봇 실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/2020-2학기_지능%20로봇%20실제): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
-- `2021-1학기` [산업인공지능개론](https://github.com/kjj3436/industrial-AI/tree/master/projects/산업인공지능개론): 산업 현장 적용을 위한 인공지능 기술의 주요 개념 및 알고리즘을 학습
-- `2021-1학기` [딥러닝실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/딥러닝실제): 인공지능시스템의 기본이 되는 신경회로망 및 딥러닝에 대해서 배움
-- `2021-2학기` [산업 컴퓨터비전실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/산업%20컴퓨터비전실제): 실제 산업현장에서 사용이 가능한 컴퓨터 비전 기술에 대해서 배움
-- `2021-2학기` [지능화 파일럿](https://github.com/kjj3436/industrial-AI/tree/master/projects/지능화%20파일럿): 자율적으로 주제를 정하여,독자적으로 설계 및 제작하고 최종적으로 결과물을 발표
+- `2021-1학기` [딥러닝실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-1학기_딥러닝%20실제): 인공지능시스템의 기본이 되는 신경회로망 및 딥러닝에 대해서 배움
+- `2021-1학기` [산업인공지능개론](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-1학기_산업인공지능%20개론): 산업 현장 적용을 위한 인공지능 기술의 주요 개념 및 알고리즘을 학습
+- `2021-2학기` [산업 컴퓨터비전실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-2학기_산업%20컴퓨터비전%20실제): 실제 산업현장에서 사용이 가능한 컴퓨터 비전 기술에 대해서 배움
+- `2021-2학기` [지능화 파일럿](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-2학기_지능화%20파일럿%20프로젝트): 자율적으로 주제를 정하여,독자적으로 설계 및 제작하고 최종적으로 결과물을 발표
 
 ### GitHub 교육
 
