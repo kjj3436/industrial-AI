@@ -11,7 +11,7 @@ Robot Operation System(ROS)
 
 ## ROS란?
   
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2020-2학기지능로봇실제_1.png"  width="800" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2020-2학기지능로봇실제_1.png"  width="1200" height="900"> </p>
 
 </p>
 
