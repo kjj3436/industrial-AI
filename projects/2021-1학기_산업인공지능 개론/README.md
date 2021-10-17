@@ -1,21 +1,21 @@
-# **Intelligent Robots Practice** 
+# **산업인공지능 개론** 
 
 ## Introduction
+ 
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_1.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_2.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_3.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_4.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_5.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_6.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_7.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_8.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_9.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_10.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_11.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_12.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_13.png"  width="900" height="600"> </p>
 
-Robot Operation System(ROS)
-- Robot software를 개발하기 위한 framework
-- ROS wiki에서는 Meta-operation system이라고 명명.
-- Node 단위의 분산 프레임워크로 구성되어 코드의 재사용 및 협업 용이(모듈화)
-- Node간 message 형식만 맞으면 다양한 언어사용 가능
-- 현재 Melodic Release 및 ROS 2개발이 진행되고 있지만, 실습에서는 ROS kinetic사용
-
-## ROS란?
-  
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2020-2학기지능로봇실제_1.png"  width="900" height="600"> </p>
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2020-2학기지능로봇실제_2.png"  width="900" height="600"> </p>   
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2020-2학기지능로봇실제_3.png"  width="900" height="600"> </p>
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2020-2학기지능로봇실제_4.png"  width="900" height="600"> </p>
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2020-2학기지능로봇실제_5.png"  width="900" height="600"> </p>
 </p>
 
 
