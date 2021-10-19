@@ -19,11 +19,11 @@
 -     프로젝트 2. 재직 현장에서 발생하는 데이터에 대해 기계학습 기법을 적용하는 시스템을 개발한다.
 -     프로젝트 3. 재직 현장에서 발생하는 이미지 데이터에 대한 인식 시스템을 개발한다. 
  
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_1.png"  width="900" height="600"> </p>
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_2.png"  width="900" height="600"> </p>
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_3.png"  width="900" height="600"> </p>
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_4.png"  width="900" height="600"> </p>
-<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_5.png"  width="900" height="600"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_1.png"  width="900" height="700"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_2.png"  width="900" height="700"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_3.png"  width="900" height="700"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_4.png"  width="900" height="700"> </p>
+<p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_5.png"  width="900" height="700"> </p>
 <p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_6.png"  width="900" height="600"> </p>
 <p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_7.png"  width="900" height="600"> </p>
 <p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/2021-1학기산업인공지능개론_8.png"  width="900" height="600"> </p>
