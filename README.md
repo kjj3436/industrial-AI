@@ -13,7 +13,7 @@
 </p>
 </br>
 
-### 재학생 수행 프로젝트
+### 수행 프로젝트
 
 - `2020-2학기` [어프렌티스 프로젝트](https://github.com/kjj3436/industrial-AI/tree/master/projects/2020-2학기_어프렌티스%20프로젝트): 문제해결방법론 교육 및 프로젝트 준비
 - `2020-2학기` [지능로봇 실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/2020-2학기_지능%20로봇%20실제): 로봇 운영체제 ROS를 중심으로 지능형 로봇 설계 및 운영 실습
