@@ -21,7 +21,8 @@
 - `2021-1학기` [산업인공지능개론](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-1학기_산업인공지능%20개론): 산업 현장 적용을 위한 인공지능 기술의 주요 개념 및 알고리즘을 학습
 - `2021-2학기` [산업 컴퓨터비전실제](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-2학기_산업%20컴퓨터비전%20실제): 실제 산업현장에서 사용이 가능한 컴퓨터 비전 기술에 대해서 배움
 - `2021-2학기` [지능화 파일럿](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-2학기_지능화%20파일럿%20프로젝트): 자율적으로 주제를 정하여,독자적으로 설계 및 제작하고 최종적으로 결과물 발표
-
+- `2022-1학기` [지능화 캡스톤 프로젝트](https://github.com/kjj3436/industrial-AI/tree/master/projects/2022-1학기_지능화%20캡스톤%20프로젝트): 자율적으로 주제를 정하여,독자적으로 설계 및 제작하고 최종적으로 결과물 발표
+- `2022-1학기` [연구윤리 및 연구과제1](https://github.com/kjj3436/industrial-AI/tree/master/projects/2022-1학기_연구윤리%20및%20연구과제1): 자율적으로 주제를 정하여,독자적으로 설계 및 제작하고 최종적으로 결과물 발표
 ### GitHub 교육
 
 - `2020-10` [GitHub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education): 포트폴리오 관리 자료
