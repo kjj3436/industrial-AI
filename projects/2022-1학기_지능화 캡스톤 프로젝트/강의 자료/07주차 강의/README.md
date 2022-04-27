@@ -51,6 +51,8 @@
 
 
 # **YOLO를 이용한 안전모 검출** 
+
+
 <p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/07캡스톤 2_1.png"  width="900" height="600"> </p>
 <p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/07캡스톤 2_2.png"  width="900" height="600"> </p>
 <p align="left" margin=100>  <img src="https://github.com/kjj3436/industrial-AI/blob/master/images/07캡스톤 2_3.png"  width="900" height="600"> </p>
