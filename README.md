@@ -26,7 +26,7 @@
 
 ### Education
 
-- `2022-1` [영어 독해](https://github.com/kjj3436/industrial-AI/tree/master/Education): 외국어 대체 시험 강좌
+- `2022-01` [영어 독해](https://github.com/kjj3436/industrial-AI/tree/master/Education): 외국어 대체 시험 강좌
 ### GitHub 교육
 
 - `2020-10` [GitHub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education): 포트폴리오 관리 자료
