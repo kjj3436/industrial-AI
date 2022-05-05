@@ -23,6 +23,10 @@
 - `2021-2학기` [지능화 파일럿](https://github.com/kjj3436/industrial-AI/tree/master/projects/2021-2학기_지능화%20파일럿%20프로젝트): 자율적으로 주제를 정하여,독자적으로 설계 및 제작하고 최종적으로 결과물 발표
 - `2022-1학기` [지능화 캡스톤 프로젝트](https://github.com/kjj3436/industrial-AI/tree/master/projects/2022-1학기_지능화%20캡스톤%20프로젝트): 지능화 교과목을 통해 배운 인공지능 지식을 활용하여 재직 기업 및 실생활에 필요한 프로젝트를 수행
 - `2022-1학기` [연구윤리 및 연구과제1](https://github.com/kjj3436/industrial-AI/tree/master/projects/2022-1학기_연구윤리%20및%20연구과제1): 학위논문 작성을 위하여 연구 주제를 설정, 연구 과정을 계획, 연구 결과를 도출 위한 실험실습 수행
+
+### Educationa
+
+- `2022-1` [영어 독해](https://github.com/Bessesian/industrial-AI/tree/master/Education): 포트폴리오 관리 자료
 ### GitHub 교육
 
 - `2020-10` [GitHub이용및포트폴리오작성자료](https://github.com/Bessesian/industrial-AI/tree/master/Education): 포트폴리오 관리 자료
